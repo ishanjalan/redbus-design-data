@@ -1,0 +1,662 @@
+{
+ "schemaVersion": 1,
+ "generatedAt": "2026-10-04T06:17:27.429Z",
+ "markets": {
+  "redbus.co": [
+   {
+    "id": "bogota-bucaramanga",
+    "file": "redbus.co/bogota-bucaramanga.json",
+    "from": "Bogota (D.C) (Todos)",
+    "to": "Bucaramanga (San) (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "bogota-medellin",
+    "file": "redbus.co/bogota-medellin.json",
+    "from": "Bogota (D.C) (Todos)",
+    "to": "Medellin (Ant) (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "bogota-cali-val",
+    "file": "redbus.co/bogota-cali-val.json",
+    "from": "Bogota (D.C) (Todos)",
+    "to": "Cali (Vac) (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "medellin-cartagena",
+    "file": "redbus.co/medellin-cartagena.json",
+    "from": "Medellin (Ant) (Todos)",
+    "to": "Cartagena (Bol) (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "barranquilla-cartagena",
+    "file": "redbus.co/barranquilla-cartagena.json",
+    "from": "Barranquilla (Atl) (Todos)",
+    "to": "Cartagena (Bol) (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "bogota-villavicencio",
+    "file": "redbus.co/bogota-villavicencio.json",
+    "from": "Bogota (D.C) (Todos)",
+    "to": "Villavicencio (Meta) (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "bogota-pereira",
+    "file": "redbus.co/bogota-pereira.json",
+    "from": "Bogota (D.C) (Todos)",
+    "to": "Pereira (Ris) (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "cali-val-pereira",
+    "file": "redbus.co/cali-val-pereira.json",
+    "from": "Cali (Vac) (Todos)",
+    "to": "Pereira (Ris) (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "bucaramanga-cucuta",
+    "file": "redbus.co/bucaramanga-cucuta.json",
+    "from": "Bucaramanga (San) (Todos)",
+    "to": "Cucuta (N.San) (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "bogota-tunja",
+    "file": "redbus.co/bogota-tunja.json",
+    "from": "Bogota (D.C) (Todos)",
+    "to": "Tunja (Boy) (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   }
+  ],
+  "redbus.com.kh": [
+   {
+    "id": "phnom-penh-siem-reap",
+    "file": "redbus.com.kh/phnom-penh-siem-reap.json",
+    "from": "Phnom Penh",
+    "to": "Siem Reap",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "phnom-penh-sihanoukville",
+    "file": "redbus.com.kh/phnom-penh-sihanoukville.json",
+    "from": "Phnom Penh (All Locations)",
+    "to": "Sihanouk Ville (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "phnom-penh-kampot",
+    "file": "redbus.com.kh/phnom-penh-kampot.json",
+    "from": "Phnom Penh (All Locations)",
+    "to": "Kampot (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "phnom-penh-battambang",
+    "file": "redbus.com.kh/phnom-penh-battambang.json",
+    "from": "Phnom Penh (All Locations)",
+    "to": "Battambang (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "siem-reap-battambang",
+    "file": "redbus.com.kh/siem-reap-battambang.json",
+    "from": "Siem Reap (All Locations)",
+    "to": "Battambang (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "phnom-penh-kep",
+    "file": "redbus.com.kh/phnom-penh-kep.json",
+    "from": "Phnom Penh (All Locations)",
+    "to": "Kep (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "siem-reap-phnom-penh",
+    "file": "redbus.com.kh/siem-reap-phnom-penh.json",
+    "from": "Siem Reap (All Locations)",
+    "to": "Phnom Penh (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "phnom-penh-kratie",
+    "file": "redbus.com.kh/phnom-penh-kratie.json",
+    "from": "Phnom Penh (All Locations)",
+    "to": "Kratie (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "siem-reap-poipet",
+    "file": "redbus.com.kh/siem-reap-poipet.json",
+    "from": "Siem Reap (All Locations)",
+    "to": "Poi Pet (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "sihanoukville-phnom-penh",
+    "file": "redbus.com.kh/sihanoukville-phnom-penh.json",
+    "from": "Sihanouk Ville (All Locations)",
+    "to": "Phnom Penh (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   }
+  ],
+  "redbus.id": [
+   {
+    "id": "jakarta-surabaya",
+    "file": "redbus.id/jakarta-surabaya.json",
+    "from": "Jakarta (Semua Lokasi)",
+    "to": "Surabaya (Semua Lokasi)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "jakarta-bandung",
+    "file": "redbus.id/jakarta-bandung.json",
+    "from": "Jakarta (Semua Lokasi)",
+    "to": "Bandung (Semua Lokasi)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "jakarta-yogyakarta",
+    "file": "redbus.id/jakarta-yogyakarta.json",
+    "from": "Jakarta (Semua Lokasi)",
+    "to": "Yogyakarta (jogja) (Semua Lokasi)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "jakarta-semarang",
+    "file": "redbus.id/jakarta-semarang.json",
+    "from": "Jakarta (Semua Lokasi)",
+    "to": "Semarang (Semua Lokasi)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "jakarta-malang",
+    "file": "redbus.id/jakarta-malang.json",
+    "from": "Jakarta (Semua Lokasi)",
+    "to": "Malang (Semua Lokasi)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "bandung-yogyakarta",
+    "file": "redbus.id/bandung-yogyakarta.json",
+    "from": "Bandung (Semua Lokasi)",
+    "to": "Yogyakarta (jogja) (Semua Lokasi)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "jakarta-solo",
+    "file": "redbus.id/jakarta-solo.json",
+    "from": "Jakarta (Semua Lokasi)",
+    "to": "Solo (Semua Lokasi)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "jakarta-cirebon",
+    "file": "redbus.id/jakarta-cirebon.json",
+    "from": "Jakarta (Semua Lokasi)",
+    "to": "Cirebon (Semua Lokasi)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "surabaya-denpasar",
+    "file": "redbus.id/surabaya-denpasar.json",
+    "from": "Surabaya (Semua Lokasi)",
+    "to": "Denpasar (Bali) (Semua Lokasi)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "surabaya-malang",
+    "file": "redbus.id/surabaya-malang.json",
+    "from": "Surabaya (Semua Lokasi)",
+    "to": "Malang (Semua Lokasi)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   }
+  ],
+  "redbus.in": [
+   {
+    "id": "bangalore-hyderabad",
+    "file": "redbus.in/bangalore-hyderabad.json",
+    "from": "Bangalore",
+    "to": "Hyderabad",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "bangalore-chennai",
+    "file": "redbus.in/bangalore-chennai.json",
+    "from": "Bengaluru",
+    "to": "Chennai",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "mumbai-pune",
+    "file": "redbus.in/mumbai-pune.json",
+    "from": "Mumbai",
+    "to": "Pune",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "delhi-jaipur",
+    "file": "redbus.in/delhi-jaipur.json",
+    "from": "Delhi",
+    "to": "Jaipur (Rajasthan)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "delhi-manali",
+    "file": "redbus.in/delhi-manali.json",
+    "from": "Delhi",
+    "to": "Manali",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "chennai-bangalore",
+    "file": "redbus.in/chennai-bangalore.json",
+    "from": "Chennai",
+    "to": "Bengaluru",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "hyderabad-vijayawada",
+    "file": "redbus.in/hyderabad-vijayawada.json",
+    "from": "Hyderabad",
+    "to": "Vijayawada",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "mumbai-goa",
+    "file": "redbus.in/mumbai-goa.json",
+    "from": "Mumbai",
+    "to": "Goa",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "delhi-chandigarh",
+    "file": "redbus.in/delhi-chandigarh.json",
+    "from": "Delhi",
+    "to": "Chandigarh",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "pune-bangalore",
+    "file": "redbus.in/pune-bangalore.json",
+    "from": "Pune",
+    "to": "Bengaluru",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   }
+  ],
+  "redbus.my": [
+   {
+    "id": "melaka-johor-bahru",
+    "file": "redbus.my/melaka-johor-bahru.json",
+    "from": "Melaka Sentral, Malacca",
+    "to": "Johor Bahru",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "kuala-lumpur-singapore",
+    "file": "redbus.my/kuala-lumpur-singapore.json",
+    "from": "Kuala Lumpur (All Locations)",
+    "to": "Singapore (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "kuala-lumpur-penang",
+    "file": "redbus.my/kuala-lumpur-penang.json",
+    "from": "Kuala Lumpur (All Locations)",
+    "to": "Penang (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "kuala-lumpur-johor-bahru",
+    "file": "redbus.my/kuala-lumpur-johor-bahru.json",
+    "from": "Kuala Lumpur (All Locations)",
+    "to": "Johor Bahru (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "kuala-lumpur-ipoh",
+    "file": "redbus.my/kuala-lumpur-ipoh.json",
+    "from": "Kuala Lumpur (All Locations)",
+    "to": "Ipoh (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "kuala-lumpur-kuantan",
+    "file": "redbus.my/kuala-lumpur-kuantan.json",
+    "from": "Kuala Lumpur (All Locations)",
+    "to": "Kuantan (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "penang-kuala-lumpur",
+    "file": "redbus.my/penang-kuala-lumpur.json",
+    "from": "Penang (All Locations)",
+    "to": "Kuala Lumpur (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "kuala-lumpur-genting",
+    "file": "redbus.my/kuala-lumpur-genting.json",
+    "from": "Kuala Lumpur (All Locations)",
+    "to": "Genting Highlands (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "johor-bahru-kuala-lumpur",
+    "file": "redbus.my/johor-bahru-kuala-lumpur.json",
+    "from": "Johor Bahru (All Locations)",
+    "to": "Kuala Lumpur (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "kuala-lumpur-alor-setar",
+    "file": "redbus.my/kuala-lumpur-alor-setar.json",
+    "from": "Kuala Lumpur (All Locations)",
+    "to": "Alor Setar (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   }
+  ],
+  "redbus.pe": [
+   {
+    "id": "lima-trujillo",
+    "file": "redbus.pe/lima-trujillo.json",
+    "from": "Lima",
+    "to": "Trujillo",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "lima-arequipa",
+    "file": "redbus.pe/lima-arequipa.json",
+    "from": "Lima (Todos)",
+    "to": "Arequipa (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "lima-ica",
+    "file": "redbus.pe/lima-ica.json",
+    "from": "Lima (Todos)",
+    "to": "Ica (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "lima-chiclayo",
+    "file": "redbus.pe/lima-chiclayo.json",
+    "from": "Lima (Todos)",
+    "to": "Chiclayo (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "lima-piura",
+    "file": "redbus.pe/lima-piura.json",
+    "from": "Lima (Todos)",
+    "to": "Piura (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "lima-huancayo",
+    "file": "redbus.pe/lima-huancayo.json",
+    "from": "Lima (Todos)",
+    "to": "Huancayo (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "lima-chimbote",
+    "file": "redbus.pe/lima-chimbote.json",
+    "from": "Lima (Todos)",
+    "to": "Chimbote (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "lima-cajamarca",
+    "file": "redbus.pe/lima-cajamarca.json",
+    "from": "Lima (Todos)",
+    "to": "Cajamarca (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "lima-huaraz",
+    "file": "redbus.pe/lima-huaraz.json",
+    "from": "Lima (Todos)",
+    "to": "Huaraz (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "lima-tacna",
+    "file": "redbus.pe/lima-tacna.json",
+    "from": "Lima (Todos)",
+    "to": "Tacna (Todos)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   }
+  ],
+  "redbus.sg": [
+   {
+    "id": "singapore-genting",
+    "file": "redbus.sg/singapore-genting.json",
+    "from": "Singapore (All Locations)",
+    "to": "Genting Highlands",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "singapore-kuala-lumpur",
+    "file": "redbus.sg/singapore-kuala-lumpur.json",
+    "from": "Singapore (All Locations)",
+    "to": "Kuala Lumpur (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "singapore-johor-bahru",
+    "file": "redbus.sg/singapore-johor-bahru.json",
+    "from": "Singapore (All Locations)",
+    "to": "Johor Bahru (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "singapore-malacca",
+    "file": "redbus.sg/singapore-malacca.json",
+    "from": "Singapore (All Locations)",
+    "to": "Malacca (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "singapore-penang",
+    "file": "redbus.sg/singapore-penang.json",
+    "from": "Singapore (All Locations)",
+    "to": "Penang (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "singapore-ipoh",
+    "file": "redbus.sg/singapore-ipoh.json",
+    "from": "Singapore (All Locations)",
+    "to": "Ipoh (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "kuala-lumpur-singapore",
+    "file": "redbus.sg/kuala-lumpur-singapore.json",
+    "from": "Kuala Lumpur (All Locations)",
+    "to": "Singapore (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "johor-bahru-singapore",
+    "file": "redbus.sg/johor-bahru-singapore.json",
+    "from": "Johor Bahru (All Locations)",
+    "to": "Singapore (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "malacca-singapore",
+    "file": "redbus.sg/malacca-singapore.json",
+    "from": "Malacca (All Locations)",
+    "to": "Singapore (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "penang-singapore",
+    "file": "redbus.sg/penang-singapore.json",
+    "from": "Penang (All Locations)",
+    "to": "Singapore (All Locations)",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   }
+  ],
+  "redbus.vn": [
+   {
+    "id": "hanoi-haiphong",
+    "file": "redbus.vn/hanoi-haiphong.json",
+    "from": "Hà Nội",
+    "to": "Hải Phòng",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "ha-noi-lao-cai",
+    "file": "redbus.vn/ha-noi-lao-cai.json",
+    "from": "Hà Nội",
+    "to": "Lào Cai",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "ha-noi-sapa",
+    "file": "redbus.vn/ha-noi-sapa.json",
+    "from": "Hà Nội",
+    "to": "Sa Pa, Lào Cai",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "ha-noi-ninh-binh",
+    "file": "redbus.vn/ha-noi-ninh-binh.json",
+    "from": "Hà Nội",
+    "to": "Ninh Bình",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "ho-chi-minh-da-lat",
+    "file": "redbus.vn/ho-chi-minh-da-lat.json",
+    "from": "Hồ Chí Minh",
+    "to": "Đà Lạt, Lâm Đồng",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "ho-chi-minh-vung-tau",
+    "file": "redbus.vn/ho-chi-minh-vung-tau.json",
+    "from": "Hồ Chí Minh",
+    "to": "Vũng Tàu, Bà Rịa - Vũng Tàu",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "ho-chi-minh-can-tho",
+    "file": "redbus.vn/ho-chi-minh-can-tho.json",
+    "from": "Hồ Chí Minh",
+    "to": "Cần Thơ",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "ha-noi-thanh-hoa",
+    "file": "redbus.vn/ha-noi-thanh-hoa.json",
+    "from": "Hà Nội",
+    "to": "Thanh Hóa",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "da-nang-hue",
+    "file": "redbus.vn/da-nang-hue.json",
+    "from": "Đà Nẵng",
+    "to": "Huế, Thừa Thiên Huế",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   },
+   {
+    "id": "ho-chi-minh-nha-trang",
+    "file": "redbus.vn/ho-chi-minh-nha-trang.json",
+    "from": "Hồ Chí Minh",
+    "to": "Nha Trang, Khánh Hòa",
+    "journeyDate": "06-Oct-2026",
+    "generatedAt": "2026-10-04T06:17:27.429Z"
+   }
+  ]
+ }
+}
